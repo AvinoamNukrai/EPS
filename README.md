@@ -1,2 +1,2 @@
-# EPSE
-Environmental Procedural  Simulator Extraordinaire
+# EPS
+Environmental Procedural  Simulator
