@@ -1,6 +1,6 @@
 package pepse;
 
-// Written by Avinoam Nukrai & Yair Ayllon, Winter 2021/2022 Hebrew U, OOP Course
+// Written by Avinoam Nukrai
 
 import danogl.GameManager;
 import danogl.GameObject;
